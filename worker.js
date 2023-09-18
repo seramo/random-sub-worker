@@ -22,6 +22,12 @@ async function handleRequest(request) {
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix',
         'https://raw.githubusercontent.com/MrPooyaX/MahsaNG/master/Decrypted___MahsaNGConfigs.txt',
         'https://tackserver-code.ir/api/json/VpnMaan.json',
+        'https://raw.githubusercontent.com/freefq/free/master/v2',
+        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
+        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
+        'https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt',
+        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt',
+        'https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all',
         // Add more URLs as needed
     ];
 
