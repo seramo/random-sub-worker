@@ -27,21 +27,6 @@ async function handleRequest(request) {
         // MahdiBland
         'https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_base64.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        // Vahid Farid ( V2Ray Worker )
-        'https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray',
-        'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt',
-        'https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt',
-        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7',
-        'https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8',
-        'https://raw.githubusercontent.com/freefq/free/master/v2',
-        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
         // Other
         'https://zebelkhan10.fallahpour25.workers.dev/sub/74f829f3-480b-4e7f-8039-9418d055375b',
         'https://panel.quickservice.sbs/gWQfDehzDHyfmKXWUK9N4sSL6fRn/2d0c6203-f715-4b14-973a-ac25e560b03e/all.txt?name=panel.quickservice.sbs-unknown&asn=unknown&mode=new',
