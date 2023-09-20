@@ -11,38 +11,25 @@ async function handleRequest(request) {
     // Define an array of subscription URLs
     const randomUrls = [
         // YeBeKhe
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vmess',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vless',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/reality',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/trojan',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/shadowsocks',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64',
         'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vmess',
         'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vless',
         'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/reality',
         'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/trojan',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/shadowsocks',
         // MahdiBland
-        'https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_base64.txt',
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
+        // Soroush Mirzaei
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
         // Other
         'https://zebelkhan10.fallahpour25.workers.dev/sub/74f829f3-480b-4e7f-8039-9418d055375b',
-        'https://panel.quickservice.sbs/gWQfDehzDHyfmKXWUK9N4sSL6fRn/2d0c6203-f715-4b14-973a-ac25e560b03e/all.txt?name=panel.quickservice.sbs-unknown&asn=unknown&mode=new',
-        'https://tackserver-code.ir/api/json/mrpooya.xyz.json',
-        'https://freevpn878.hamidimorteza680.workers.dev/sub',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
-        'https://proxypool.link/sip002/sub',
-        'https://proxypool.link/vmess/sub',
-        'https://test2.sub-channel.workers.dev/vless/iphone/random',
-        'https://raw.githubusercontent.com/MrPooyaX/MahsaNG/master/Decrypted___MahsaNGConfigs.txt',
         'https://tackserver-code.ir/api/json/VpnMaan.json',
-        'https://raw.githubusercontent.com/freefq/free/master/v2',
-        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
-        'https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2',
-        'https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt',
-        'https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all',
         // Add more URLs as needed
     ];
 
