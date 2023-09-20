@@ -16,17 +16,8 @@ async function handleRequest(request) {
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vless',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/reality',
         'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/trojan',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vmess',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/vless',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/reality',
-        'https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/trojan',
         // MahdiBland
         'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        // Soroush Mirzaei
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
         // Other
         'https://zebelkhan10.fallahpour25.workers.dev/sub/74f829f3-480b-4e7f-8039-9418d055375b',
         'https://tackserver-code.ir/api/json/VpnMaan.json',
